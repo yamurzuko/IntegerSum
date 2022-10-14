@@ -1,0 +1,15 @@
+/Users/ugurcanyagmur/Projects/IntegerSum/bin/Debug/net6.0/IntegerSum
+/Users/ugurcanyagmur/Projects/IntegerSum/bin/Debug/net6.0/IntegerSum.deps.json
+/Users/ugurcanyagmur/Projects/IntegerSum/bin/Debug/net6.0/IntegerSum.runtimeconfig.json
+/Users/ugurcanyagmur/Projects/IntegerSum/bin/Debug/net6.0/IntegerSum.dll
+/Users/ugurcanyagmur/Projects/IntegerSum/bin/Debug/net6.0/IntegerSum.pdb
+/Users/ugurcanyagmur/Projects/IntegerSum/obj/Debug/net6.0/IntegerSum.csproj.AssemblyReference.cache
+/Users/ugurcanyagmur/Projects/IntegerSum/obj/Debug/net6.0/IntegerSum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ugurcanyagmur/Projects/IntegerSum/obj/Debug/net6.0/IntegerSum.AssemblyInfoInputs.cache
+/Users/ugurcanyagmur/Projects/IntegerSum/obj/Debug/net6.0/IntegerSum.AssemblyInfo.cs
+/Users/ugurcanyagmur/Projects/IntegerSum/obj/Debug/net6.0/IntegerSum.csproj.CoreCompileInputs.cache
+/Users/ugurcanyagmur/Projects/IntegerSum/obj/Debug/net6.0/IntegerSum.dll
+/Users/ugurcanyagmur/Projects/IntegerSum/obj/Debug/net6.0/refint/IntegerSum.dll
+/Users/ugurcanyagmur/Projects/IntegerSum/obj/Debug/net6.0/IntegerSum.pdb
+/Users/ugurcanyagmur/Projects/IntegerSum/obj/Debug/net6.0/IntegerSum.genruntimeconfig.cache
+/Users/ugurcanyagmur/Projects/IntegerSum/obj/Debug/net6.0/ref/IntegerSum.dll
